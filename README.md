@@ -133,7 +133,10 @@ print(" -> ".join(traversed_path))
 ```
 OUTPUT:
 
+
 <img width="1195" height="550" alt="image" src="https://github.com/user-attachments/assets/0aef0344-d583-4a40-8c47-f7cba3c5a968" />
+
+
 
 RESULT
 
